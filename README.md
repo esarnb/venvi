@@ -3,13 +3,13 @@
 </h1>
 <h2 align="center">
 A Decoupled MERN Stack Web Application for Consumer Car Reviews and Marketplace.
-    <br /> <a href="https://phillipchang.github.io/venvi-fe/">Visit Website </a>
+    <br /> <a href="https://esarnb.github.io/venvi-fe/">Visit Website </a>
 </h2>
 
 # Description
 **VENVI** is a web app where users can find and submit user reviews for specific models of cars, as well as buy and sell cars. This app takes a different approach from the commonly seen critical reviews from cars, user reviews are also an important factor in influencing purchading decisions and we provide that. 
 
-This app is built with React. The app is decoupled; the front end GitHub page can be found [here](https://github.com/PhillipChang/venvi-fe), while the back end page can be found [here](https://github.com/chloezhouny/venvi-be).
+This app is built with React. The app is decoupled; the front end GitHub page can be found [here](https://github.com/esarnb/venvi-fe), while the back end page can be found [here](https://github.com/esarnb/venvi-be).
 
 # The App
 <img src="public/images/2019-08-29_16-43-36.gif" alt="website gif"></a>
